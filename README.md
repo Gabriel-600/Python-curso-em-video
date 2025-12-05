@@ -1,2 +1,17 @@
 # Python-curso-em-video
-Exercícios, anotações e práticas do curso de Python do professor Gustavo Guanabara (Curso em Vídeo). Repositório criado para registrar minha evolução no aprendizado de programação.
+# Curso de Python – Curso em Vídeo
+
+Repositório com exercícios, desafios e anotações do curso de Python do professor Gustavo Guanabara.
+
+## Conteúdo
+- Variáveis e tipos de dados
+- Estruturas condicionais (if/else)
+- Estruturas de repetição (for/while)
+- Funções
+- Listas, tuplas e dicionários
+- Módulos e pacotes
+- Manipulação de strings
+- Desafios práticos
+
+## Objetivo
+Registrar minha evolução no aprendizado de Python e praticar versionamento com Git e GitHub.
